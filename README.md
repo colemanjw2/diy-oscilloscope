@@ -1,5 +1,7 @@
 #  DIY Cathode-Ray Tube Oscilloscope (2AP1A)
 
+![A DIY CRT Oscilloscope](coleman_oscope.png)
+
 A fully discrete, high-voltage, electrostatic CRT oscilloscope built from first principles.
 
 This project recreates the fundamental operation of early oscilloscopes using a vacuum tube, analog deflection amplifiers, and a high-voltage supply — with no digital processing, sampling, or abstraction.
