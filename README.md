@@ -6,7 +6,7 @@ This project recreates the fundamental operation of early oscilloscopes using a 
 
 ---
 
-## 📌 Overview
+## Overview
 
 This oscilloscope is based around the **2AP1A cathode-ray tube**, a small electrostatic CRT that allows direct visualization of electrical signals through electron beam deflection.
 
@@ -19,7 +19,7 @@ The display is a **real-time physical representation of voltage**.
 
 ---
 
-## ⚙️ System Architecture
+##  System Architecture
 
 The build consists of three primary subsystems:
 
@@ -50,7 +50,7 @@ The build consists of three primary subsystems:
 
 ---
 
-## 🔬 CRT Operation (2AP1A)
+## CRT Operation (2AP1A)
 
 Electron beam flow:
 
@@ -136,7 +136,7 @@ That field physically steers the electron beam in real time.
 
 ---
 
-## 🔄 Lissajous Mode (X-Y Operation)
+## Lissajous Mode (X-Y Operation)
 
 When two signals are applied:
 
@@ -182,13 +182,12 @@ This project involves **lethal high voltage**.
 
 ---
 
-## 🧪 Experiments Enabled
+## Experiments Enabled
 
 - Basic waveform visualization (no timebase)  
 - X-Y plotting  
 - Lissajous frequency comparison  
-- Beam focusing and intensity control  
-- Potential e/m experiments with magnetic fields  
+- Beam focusing and intensity control   
 
 ---
 
@@ -218,14 +217,6 @@ _Add link here_
 
 ---
 
-## 📚 References
-
-- RCA 2AP1A Datasheet  
-- ARRL Handbook (mid-20th century CRT circuits)  
-- J.B. Calvert CRT Oscilloscope Notes  
-
----
-
 ## 🎯 Purpose
 
 This project is not about performance.
@@ -248,24 +239,9 @@ Voltage → electric field → force → motion → visible trace
 
 ---
 
-## 📌 Future Work
+##  Future Work
 
 - Add triggered sweep (timebase)  
 - Improve amplifier bandwidth  
 - Shielding and noise reduction  
 - Calibration scaling  
-
----
-
-## 📄 License
-
-MIT (or specify)
-```
-
----
-
-If you want next step:
-
-* I can add **badges (build, license, status)**
-* or a **full “build guide” section with BOM + wiring steps**
-* or auto-generate a **schematic diagram image for the repo header**
