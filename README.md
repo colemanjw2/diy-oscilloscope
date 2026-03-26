@@ -4,6 +4,16 @@ A fully discrete, high-voltage, electrostatic CRT oscilloscope built from first 
 
 This project recreates the fundamental operation of early oscilloscopes using a vacuum tube, analog deflection amplifiers, and a high-voltage supply — with no digital processing, sampling, or abstraction.
 
+It is based on the designs found here:
+
+https://web.archive.org/web/20120718013731/http://mysite.du.edu/~etuttle/electron/elecindx.htm
+
+And it is specifically this project:
+
+https://web.archive.org/web/20120714102433/http://mysite.du.edu/~etuttle/electron/elect29.htm
+
+Because the college that once hosted this site has decided to no longer do so, one must use WayBack Machine to view but I have also put the full webpage in a folder inside of this repo. 
+
 ---
 
 ## Overview
