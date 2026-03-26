@@ -84,67 +84,6 @@ Cathode → Grid 1 → Anode 1 → Grid 2 → Anode 2 → Deflection Plates → 
 
 ---
 
-## 📐 Deflection Physics
-
-Electron acceleration:
-
-```
-
-½mv² = eV
-
-```
-
-Beam deflection:
-
-```
-
-D = S · V_d
-
-```
-
-Where:
-- **D** = deflection (mm)  
-- **V_d** = voltage difference across plates  
-- **S** = sensitivity (mm/V)  
-
----
-
-### Measured Performance
-
-- Deflection sensitivity:  
-```
-
-S ≈ 0.23 mm/V
-
-```
-
-- Example:
-- 145 Vpp → ~33 mm deflection
-
-- Full screen (~44 mm):
-```
-
-≈ 190 V required
-
-```
-
----
-
-### Key Insight
-
-The CRT does not "measure" signals digitally.
-
-The signal is **applied directly to the deflection plates**, creating an electric field:
-
-```
-
-V_d = V₁ - V₂
-
-```
-
-That field physically steers the electron beam in real time.
-
----
 
 ## Lissajous Mode (X-Y Operation)
 
@@ -163,17 +102,6 @@ The CRT draws the relationship between them.
 Result:
 - Slowly rotating pattern  
 - Drift rate = **1 Hz difference**
-
----
-
-## Voltage Distribution (Typical)
-
-- Cathode: ~ -700 V  
-- Grid 1: ~ -30 to -90 V (cutoff region)  
-- Anode 1: intermediate voltage  
-- Grid 2: ~140–300 V (focus adjustment)  
-- Anode 2: ~700–1000 V  
-- Deflection plates: near ground + signal  
 
 ---
 
@@ -210,16 +138,6 @@ This project involves **lethal high voltage**.
 
 ---
 
-##  Media
-
-_Add photos here:_
-
-- Full build  
-- Internal wiring  
-- CRT trace  
-- Lissajous figures  
-
----
 
 ##  Project Video
 
@@ -247,11 +165,4 @@ Voltage → electric field → force → motion → visible trace
 
 ```
 
----
 
-##  Future Work
-
-- Add triggered sweep (timebase)  
-- Improve amplifier bandwidth  
-- Shielding and noise reduction  
-- Calibration scaling  
