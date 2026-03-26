@@ -143,7 +143,7 @@ This project involves **lethal high voltage**.
 
 ##  Project Video
 
-_Add link here_
+https://youtu.be/sQTSOFO6ceU
 
 ---
 
