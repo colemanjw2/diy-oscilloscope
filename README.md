@@ -1,8 +1,3 @@
-Here is your **clean, ready-to-paste GitHub README in proper Markdown** (with formatting, headings, code blocks, and structure that renders well on GitHub).
-
----
-
-```markdown
 #  DIY Cathode-Ray Tube Oscilloscope (2AP1A)
 
 A fully discrete, high-voltage, electrostatic CRT oscilloscope built from first principles.
