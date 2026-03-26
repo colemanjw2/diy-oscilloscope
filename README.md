@@ -191,7 +191,7 @@ This project involves **lethal high voltage**.
 
 ---
 
-## 🛠️ Build Notes
+##  Build Notes
 
 - Derived from classic oscilloscope circuits (ARRL-era designs)
 - Uses modern components where practical
@@ -200,7 +200,7 @@ This project involves **lethal high voltage**.
 
 ---
 
-## 📷 Media
+##  Media
 
 _Add photos here:_
 
@@ -211,13 +211,13 @@ _Add photos here:_
 
 ---
 
-## 🎥 Project Video
+##  Project Video
 
 _Add link here_
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project is not about performance.
 
