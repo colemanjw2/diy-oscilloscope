@@ -156,7 +156,7 @@ Result:
 
 ---
 
-## ⚡ Voltage Distribution (Typical)
+## Voltage Distribution (Typical)
 
 - Cathode: ~ -700 V  
 - Grid 1: ~ -30 to -90 V (cutoff region)  
